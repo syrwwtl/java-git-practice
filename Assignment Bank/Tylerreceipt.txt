@@ -1,0 +1,5 @@
+Receipt
+User Name:Tyler Wu
+Time:Tue Jan 02 10:05:28 EST 2018
+Account:5941656601 Balance:5.880000000000001
+Account:4734094331 Balance:5.0
